@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[351],{5088:function(s){s.exports=JSON.parse('{"allTagsPath":"/starknet-docs/blog/tags","slug":"/starknet-docs/blog/tags/hello","name":"hello","count":2,"permalink":"/starknet-docs/blog/tags/hello"}')}}]);
