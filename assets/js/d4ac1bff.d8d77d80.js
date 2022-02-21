@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstarknet_docs=self.webpackChunkstarknet_docs||[]).push([[411],{8101:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var a=n(7294),c=n(7019);function u(){return a.createElement(c.Z,null,a.createElement("h1",null,"My React page"),a.createElement("p",null,"This is a React page"))}}}]);
