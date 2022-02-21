@@ -15,7 +15,8 @@
     "pre-release": "standard-version --prerelease --skip.changelog --releaseCommitMessageFormat 'chore(prerelease): {{currentTag}}'",
     "release": "standard-version",
     "release:dry": "standard-version --dry-run",
-    "format": "prettier --write \"**/*.+(ts|js|json|md|html|yml)\""
+    "format": "prettier --write \"**/*.+(ts|js|json|md|html|yml)\"",
+    "format:check": "prettier --check \"**/*.+(ts|js|json|md|html|yml)\""
   },
   "browserslist": {
     "production": [
@@ -40,5 +41,9 @@
     "react-dom": "^17.0.1",
     "rehype-katex": "^4.0.0",
     "remark-math": "^3.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "standard-version": "^9.3.2"
   }
 }
