@@ -53,3 +53,4 @@ jobs:
           publish_dir: ./build
           user_name: ${{ secrets.USER_NAME }}
           user_email: ${{ secrets.USER_EMAIL }}
+          publish_branch: deployed
